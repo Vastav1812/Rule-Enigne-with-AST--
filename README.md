@@ -79,4 +79,10 @@ cd rule-engine-app
 python3 -m venv rule_engine_env
 source rule_engine_env/bin/activate  # For Linux/Mac
 rule_engine_env\Scripts\activate  # For Windows
+```
 
+### **Install dependencies:**
+```bash
+Copy code
+pip install -r requirements.txt
+```
