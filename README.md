@@ -71,3 +71,10 @@ This application allows users to create, evaluate, and combine rules in real-tim
 ```bash
 git clone https://github.com/your-username/rule-engine-app.git
 cd rule-engine-app
+
+### **Set up the virtual environment:**
+```bash
+python3 -m venv rule_engine_env
+source rule_engine_env/bin/activate  # For Linux/Mac
+rule_engine_env\Scripts\activate  # For Windows
+
