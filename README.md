@@ -71,7 +71,7 @@ This application allows users to create, evaluate, and combine rules in real-tim
 ```bash
 git clone https://github.com/your-username/rule-engine-app.git
 cd rule-engine-app
-
+```
 ----
 
 ### **Set up the virtual environment:**
