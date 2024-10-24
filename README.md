@@ -86,3 +86,8 @@ rule_engine_env\Scripts\activate  # For Windows
 Copy code
 pip install -r requirements.txt
 ```
+
+### **TESTING:**
+```bash
+PYTHONPATH=. pytest
+```
